@@ -1,0 +1,56 @@
+<svg width="212" height="202" viewBox="0 0 212 202" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_g_5247_20)">
+<path d="M82.109 188.93C82.109 188.93 153.451 194.028 206.848 150.535C182.377 9.58965 183.292 -20.4181 145.239 91.1441C76.442 -5.21868 89.2076 30.8585 95.88 116.2C19.1843 77.6493 -1.13741 61.8425 82.109 188.93Z" fill="#FFF001"/>
+<path d="M82.109 188.93C82.109 188.93 153.451 194.028 206.848 150.535C182.377 9.58965 183.292 -20.4181 145.239 91.1441C76.442 -5.21868 89.2076 30.8585 95.88 116.2C19.1843 77.6493 -1.13741 61.8425 82.109 188.93Z" stroke="#C08C39" stroke-width="5"/>
+</g>
+<g filter="url(#filter1_g_5247_20)">
+<ellipse cx="172.365" cy="10.558" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 172.365 10.558)" fill="#C08C39"/>
+<ellipse cx="172.365" cy="10.558" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 172.365 10.558)" stroke="#C08C39" stroke-width="5"/>
+</g>
+<g filter="url(#filter2_g_5247_20)">
+<ellipse cx="87.7198" cy="21.5668" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 87.7198 21.5668)" fill="#C08C39"/>
+<ellipse cx="87.7198" cy="21.5668" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 87.7198 21.5668)" stroke="#C08C39" stroke-width="5"/>
+</g>
+<g filter="url(#filter3_g_5247_20)">
+<ellipse cx="14.129" cy="77.8246" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 14.129 77.8246)" fill="#C08C39"/>
+<ellipse cx="14.129" cy="77.8246" rx="6.27371" ry="6.27375" transform="rotate(-9.09533 14.129 77.8246)" stroke="#C08C39" stroke-width="5"/>
+</g>
+<defs>
+<filter id="filter0_g_5247_20" x="24.3418" y="19.2025" width="186.719" height="173.911" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.10000000149011612 0.10000000149011612" numOctaves="3" seed="839" />
+<feDisplacementMap in="shape" scale="3" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_5247_20">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+<filter id="filter1_g_5247_20" x="162.09" y="0.282627" width="20.5508" height="20.5508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" numOctaves="3" seed="8305" />
+<feDisplacementMap in="shape" scale="3" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_5247_20">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+<filter id="filter2_g_5247_20" x="77.4443" y="11.2914" width="20.5508" height="20.5508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" numOctaves="3" seed="8305" />
+<feDisplacementMap in="shape" scale="3" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_5247_20">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+<filter id="filter3_g_5247_20" x="3.85352" y="67.5492" width="20.5508" height="20.5508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" numOctaves="3" seed="8305" />
+<feDisplacementMap in="shape" scale="3" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_5247_20">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+</defs>
+</svg>
